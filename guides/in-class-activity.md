@@ -1,5 +1,5 @@
 # Git Basics
-In this activity we will learn how to **fork** and **clone** a GitHub repo. We will also **commit** changes to the repo.
+In this activity you will **fork** and **clone** a GitHub repository so that you can edit the repo locally. You will also **commit** your changes to the repo, and submit a **pull request** to merge these edits with the original repository.
 
 ## Forking a Repo
 On the GitHub website, fork the [repo](https://github.com/Linda-Clark/hello-world.git) I made. This will create a version of my repo in your GitHub account.
