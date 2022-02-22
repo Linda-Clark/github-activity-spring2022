@@ -4,7 +4,7 @@ On the GitHub website, fork the [repo](https://github.com/Linda-Clark/hello-worl
 - [ ] Click "fork" in the top right corner of the webpage.
 ![fork](images/fork.png)
 
-This should create a new repository with the name: <username>/hello-world.
+This should create a new repository with the name: \<username\>/hello-world.
 
 ## Cloning a Repo
 Now you are going to clone the forked repository! This creates a local copy of the repository on your machine (where you can edit it).
