@@ -1,4 +1,6 @@
 # Git Basics
+In this activity we will learn how to **fork** and **clone** a GitHub repo. We will also **commit** changes to the repo.
+
 ## Forking a Repo
 On the GitHub website, fork the [repo](https://github.com/Linda-Clark/hello-world.git) I made. This will create a version of my repo in your GitHub account.
 - [ ] Click "fork" in the top right corner of the webpage.
