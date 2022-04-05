@@ -34,11 +34,11 @@ In order to edit the repo, you can access the files in the same way that you wou
 Now that you have made changes to the repository, it is time to commit those changes! You can conveniently do this from GitHub Desktop.
 
 - [ ] Navigate back to GitHub Desktop.
-- [ ] Click the blue "commit to main" button in the bottom left corner of the application.
+- [ ] Click the blue "commit to main" button in the bottom left corner of the application. You need to include a brief summary of your changes in order to commit (i.e. "favorite animal image added"). 
 ![finder](images/commit.png)
 
 Your changes should now be committed locally! In order to make these changes remotely (on GitHub), you must "push" them to to your remote repository.
 
 ![push](images/push.png)
 
-- [ ] Share a copy of your GitHub repository address as your “submission” to the activity for unit 11.
+- [ ] Share a link to your GitHub repository as your “submission” for the unit 11 activity.
